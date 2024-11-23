@@ -3,4 +3,4 @@
 echo "Hello, World!"
 
 
-check "This is a change I made on Github.com"
+check "This is a edit I made on Github.com"
